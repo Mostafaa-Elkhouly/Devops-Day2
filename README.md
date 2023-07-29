@@ -5,8 +5,8 @@
 - git push origin :test
 
 # To Remove a local Branch
-- git branch -d dev  or git branch -D dev
-- git branch -D test or git branch -D test 
+- git branch -d dev  (or) git branch -D dev
+- git branch -d test (or) git branch -D test 
 
 # To Checkout Another Branch Without Commit Changes
 - git status
