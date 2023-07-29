@@ -14,11 +14,4 @@
 - git checkout <branch-name>
 - git stash apply --> To apply the stashed changes back to my working directory after switching to the new branch.
 
-# To Checkout Another Branch Without Commit Changes
-- git status
-- git stash
-- git checkout <branch-name>
-- git stash apply --> To apply the stashed changes back to my working directory after switching to the new branch.
-
-
 
