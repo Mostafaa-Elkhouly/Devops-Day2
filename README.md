@@ -24,5 +24,4 @@
 - git stash apply --> To apply the stashed changes back to my working directory after switching to the new branch.
 
 
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+
