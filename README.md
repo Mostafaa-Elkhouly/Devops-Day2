@@ -14,7 +14,7 @@
 - git checkout <branch-name>
 - git stash apply --> To apply the stashed changes back to my working directory after switching to the new branch.
 
-# To List Tag
+# To List Tags
 - git tag
 
 # To Delete Tag Locally
@@ -23,4 +23,5 @@
 # To Delete Tag Remotely 
 - git push origin --delete v1.7
 
+![Git Icon](images/git-icon.png)
 
