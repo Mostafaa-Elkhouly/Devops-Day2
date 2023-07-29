@@ -17,3 +17,10 @@
 # To List Tag
 - git tag
 
+# To Delete Tag Locally
+- git tag -d v1.7
+
+# To Delete Tag Remotely 
+- git push origin --delete v1.7
+
+
