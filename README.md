@@ -14,4 +14,6 @@
 - git checkout <branch-name>
 - git stash apply --> To apply the stashed changes back to my working directory after switching to the new branch.
 
+# To List Tag
+- git tag
 
